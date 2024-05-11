@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+MPA,671.9577870368958,21,"duration,service,src_bytes,land,wrong_fragment,urgent,hot,logged_in,root_shell,num_outbound_cmds,is_host_login,count,serror_rate,srv_serror_rate,srv_rerror_rate,same_srv_rate,dst_host_same_srv_rate,dst_host_diff_srv_rate,dst_host_same_src_port_rate,dst_host_rerror_rate,dst_host_srv_rerror_rate,"

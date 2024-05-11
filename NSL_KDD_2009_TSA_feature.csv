@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+TSA,88.1616747379303,19,"duration,service,src_bytes,wrong_fragment,urgent,hot,logged_in,num_compromised,num_root,num_access_files,is_host_login,is_guest_login,rerror_rate,diff_srv_rate,dst_host_same_src_port_rate,dst_host_serror_rate,dst_host_srv_serror_rate,dst_host_rerror_rate,dst_host_srv_rerror_rate,"

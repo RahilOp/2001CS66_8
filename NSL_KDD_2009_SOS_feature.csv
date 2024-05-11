@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+SOS,247.45418453216553,19,"dst_host_srv_rerror_rate,duration,protocol_type,land,wrong_fragment,urgent,hot,root_shell,num_shells,is_guest_login,serror_rate,srv_diff_host_rate,dst_host_srv_count,dst_host_same_srv_rate,dst_host_diff_srv_rate,dst_host_srv_diff_host_rate,dst_host_serror_rate,dst_host_srv_serror_rate,dst_host_rerror_rate,"

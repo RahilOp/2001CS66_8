@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+GA,205.80062007904053,22,"duration,protocol_type,wrong_fragment,urgent,hot,logged_in,num_compromised,su_attempted,num_shells,num_outbound_cmds,srv_count,rerror_rate,same_srv_rate,diff_srv_rate,srv_diff_host_rate,dst_host_count,dst_host_srv_count,dst_host_diff_srv_rate,dst_host_same_src_port_rate,dst_host_serror_rate,dst_host_srv_serror_rate,dst_host_rerror_rate,"

@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+GNDO,169.6187493801117,15,"protocol_type,service,src_bytes,dst_bytes,wrong_fragment,hot,root_shell,num_shells,serror_rate,srv_serror_rate,srv_diff_host_rate,dst_host_same_srv_rate,dst_host_same_src_port_rate,dst_host_serror_rate,dst_host_rerror_rate,"

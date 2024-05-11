@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+FOA,76.16641879081726,14,"src_bytes,wrong_fragment,urgent,num_compromised,su_attempted,num_file_creations,num_access_files,serror_rate,srv_diff_host_rate,dst_host_srv_count,dst_host_same_srv_rate,dst_host_diff_srv_rate,dst_host_same_src_port_rate,dst_host_srv_serror_rate,"

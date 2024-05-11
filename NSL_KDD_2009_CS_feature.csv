@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+CS,303.6545600891113,23,"protocol_type,service,flag,land,urgent,hot,logged_in,num_compromised,root_shell,num_root,num_shells,is_guest_login,count,srv_count,serror_rate,srv_serror_rate,rerror_rate,dst_host_srv_count,dst_host_same_srv_rate,dst_host_diff_srv_rate,dst_host_same_src_port_rate,dst_host_serror_rate,dst_host_srv_serror_rate,"

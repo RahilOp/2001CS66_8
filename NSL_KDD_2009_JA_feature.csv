@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+JA,70.64834809303284,15,"protocol_type,service,src_bytes,wrong_fragment,hot,logged_in,num_compromised,root_shell,is_host_login,rerror_rate,diff_srv_rate,dst_host_diff_srv_rate,dst_host_same_src_port_rate,dst_host_serror_rate,dst_host_rerror_rate,"

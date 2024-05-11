@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+SCA,573.03839802742,21,"protocol_type,service,land,wrong_fragment,hot,logged_in,root_shell,su_attempted,num_root,num_shells,is_host_login,is_guest_login,srv_count,serror_rate,srv_serror_rate,dst_host_same_srv_rate,dst_host_diff_srv_rate,dst_host_same_src_port_rate,dst_host_srv_diff_host_rate,dst_host_rerror_rate,dst_host_srv_rerror_rate,"
